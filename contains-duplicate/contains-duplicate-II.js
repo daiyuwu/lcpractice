@@ -11,7 +11,6 @@ let containsNearbyDuplicate = function(nums, k) {
       else
         map[n] = i
     }
-    
   }
 
   return false
